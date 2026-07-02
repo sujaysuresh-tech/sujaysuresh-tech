@@ -74,5 +74,5 @@ A decentralized fraud-detection platform combining machine learning with blockch
   <a href="mailto:sujaysuresh365@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-🌏 Based in Kerala, India
+## 🌏 Based in Kerala, India
 
