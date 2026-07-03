@@ -6,12 +6,6 @@
 
 <br/>
 
-[![B.Tech AI & DS](https://img.shields.io/badge/B.Tech%20AI%20%26%20Data%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](#)
-[![CGPA](https://img.shields.io/badge/CGPA%208.1-7C3AED?style=flat-square&logo=bookstack&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Location%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)](#)
-
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://sujaysuresh-tech.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay--suresh)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujaysuresh365@gmail.com)
