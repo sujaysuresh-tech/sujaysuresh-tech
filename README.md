@@ -193,16 +193,6 @@ This project addresses a core trust problem in insurance systems — ensuring cl
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sujaysuresh-tech/sujaysuresh-tech/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
@@ -231,11 +221,11 @@ focus:
 ## Connect
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujaysuresh365@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sujaysuresh--tech-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujaysuresh-tech)
+  
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:sujaysuresh365@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/sujaysuresh-tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://sujaysuresh-tech.github.io)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/sujay--suresh)
+[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://sujaysuresh-tech.github.io)
 
 </div>
 
