@@ -137,39 +137,6 @@ This project addresses a core trust problem in insurance systems — ensuring cl
 
 ---
 
-## Certifications
-
-**AWS**
-
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](#)
-
-**Oracle**
-
-[![Oracle](https://img.shields.io/badge/Oracle-Certified%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)](#)
-
-**NPTEL**
-
-[![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](#)
-
-**Cisco**
-
-[![Cisco](https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](#)
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-A78BFA?style=for-the-badge&logo=codechef&logoColor=white)](#)
-
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
