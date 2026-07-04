@@ -78,7 +78,7 @@ I care about writing maintainable code, designing systems that scale, and shippi
 ## Featured Projects
 
 <details>
-<summary><strong>🔷 Insurance Fraud Detection System (Blockchain + ML)</strong></summary>
+<summary><strong>🔷 Blockchain-Based Insurance Verification System</strong></summary>
 
 <br/>
 
