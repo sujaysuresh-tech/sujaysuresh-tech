@@ -91,7 +91,7 @@ A production-oriented fraud detection platform combining machine learning classi
 | **Performance** | Optimized feature engineering for high-accuracy fraud classification |
 | **Security** | Blockchain-backed immutable claim verification layer |
 | **Impact** | Reduces fraudulent claim approval risk via verifiable data trails |
-| **Repository** | [View Repo](https://github.com/sujaysuresh-tech) |
+| **Repository** | [View Repo](https://github.com/sujaysuresh-tech/Insurance-Fraud-Detection-) |
 
 This project addresses a core trust problem in insurance systems — ensuring claim data cannot be silently altered after submission. By pairing a blockchain ledger with a supervised ML classification layer, the system flags anomalous claims while maintaining a verifiable audit trail, bridging financial security engineering with applied machine learning.
 
