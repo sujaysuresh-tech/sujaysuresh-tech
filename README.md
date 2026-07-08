@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Sujay%20Suresh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+at+Scale;AI%2FML+Engineer+%7C+Full+Stack+Developer;Turning+Data+Into+Decisions;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Sujay;%F0%9F%9A%80+Building+Intelligent+Systems+at+Scale;%F0%9F%A4%96+AI%2FML+Engineer+%7C+Full+Stack+Dev;%F0%9F%92%A1+Turning+Data+Into+Decisions;%E2%9A%A1+Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
 
 <br/>
 
@@ -23,56 +23,56 @@
 
 </div>
 
-## About Me
+## 🧑‍💻 About Me
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
 
 ```js
 const sujaySuresh = {
-  degree: "B.Tech, Artificial Intelligence & Data Science",
-  focus: ["AI/ML Engineering", "Full Stack Development", "Product Engineering"],
+  degree: "🎓 B.Tech, Artificial Intelligence & Data Science",
+  focus: ["🤖 AI/ML Engineering", "🌐 Full Stack Development", "🛠️ Product Engineering"],
   philosophy: "Engineering systems that are scalable, secure, and human-centered",
   currentlyExploring: [
-    "Applied ML in production",
-    "Blockchain-backed data integrity",
-    "Cloud-native architectures"
+    "⚡ Applied ML in production",
+    "🔗 Blockchain-backed data integrity",
+    "☁️ Cloud-native architectures"
   ]
 };
 ```
 
-I'm a software engineer with a strong foundation in **AI/ML systems**, **full-stack engineering**, and **data-driven product design**. My work centers on building end-to-end intelligent applications — from ML models and blockchain-secured data pipelines to clean, production-ready web interfaces.
+I'm a software engineer with a strong foundation in **AI/ML systems** 🤖, **full-stack engineering** 🌐, and **data-driven product design** 📊. My work centers on building end-to-end intelligent applications — from ML models and blockchain-secured data pipelines to clean, production-ready web interfaces.
 
-I care about writing maintainable code, designing systems that scale, and shipping products that solve real problems — not just prototypes that look good in a demo.
+I care about writing maintainable code, designing systems that scale, and shipping products that solve real problems — not just prototypes that look good in a demo. 🚀
 
-**Open To:**
+**🎯 Open To:**
 
-- Software Engineering roles (Full-time / Graduate programs)
-- AI/ML Engineering opportunities
-- Full Stack Development roles
-- Data Analyst roles
-- Open Source collaboration
+- 💼 Software Engineering roles (Full-time / Graduate programs)
+- 🤖 AI/ML Engineering opportunities
+- 🌐 Full Stack Development roles
+- 📊 Data Analyst roles
+- 🌱 Open Source collaboration
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**Languages** 💻
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" />
 
-**Frontend**
+**Frontend** 🎨
 
 <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
 
-**Backend & Databases**
+**Backend & Databases** ⚙️
 
 <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,postgres,mongodb&theme=dark" />
 
-**Cloud, DevOps & Tooling**
+**Cloud, DevOps & Tooling** ☁️
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,docker,unity,linux,vscode,vercel&theme=dark" />
 
@@ -80,107 +80,110 @@ I care about writing maintainable code, designing systems that scale, and shippi
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## AI / ML Expertise
+## 🧠 AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Machine Learning | ●●●●○ | Classification, regression, ensemble models, model evaluation |
-| Deep Learning | ●●●○○ | Neural networks, CNNs, sequence models |
-| NLP | ●●●●○ | spaCy, BERT embeddings, text classification |
-| Data Analytics | ●●●●● | Power BI, EDA, statistical reporting, dashboarding |
-| Computer Vision | ●●●○○ | Image preprocessing, OpenCV pipelines |
-| Blockchain for AI Integrity | ●●●●○ | Tamper-proof ML pipelines, decentralized verification |
-| MLOps Fundamentals | ●●●○○ | Model deployment, Streamlit apps, version control for ML |
+| 🤖 Machine Learning | ●●●●○ | Classification, regression, ensemble models, model evaluation |
+| 🧬 Deep Learning | ●●●○○ | Neural networks, CNNs, sequence models |
+| 💬 NLP | ●●●●○ | spaCy, BERT embeddings, text classification |
+| 📊 Data Analytics | ●●●●● | Power BI, EDA, statistical reporting, dashboarding |
+| 👁️ Computer Vision | ●●●○○ | Image preprocessing, OpenCV pipelines |
+| 🔗 Blockchain for AI Integrity | ●●●●○ | Tamper-proof ML pipelines, decentralized verification |
+| 🚢 MLOps Fundamentals | ●●●○○ | Model deployment, Streamlit apps, version control for ML |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <details open>
-<summary><strong>🔷 Blockchain-Based Insurance Verification System</strong></summary>
+<summary><strong>✨ Lumen — AI Chatbot</strong></summary>
 
 <br/>
 
-A trust-focused platform that pairs a blockchain ledger with claim-record hashing to prevent tampering of insurance certificate data — ensuring every issued record stays verifiable end-to-end.
+A frontend AI chatbot built with vanilla JavaScript and a modular ES module architecture, powered by the **Gemini 2.5 Flash API**. Designed with a dark-mode glassmorphism aesthetic and deployed live for anyone to try. 💬
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-Try_It_Now-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-chatbot-lumen.vercel.app/)
 
 | Attribute | Details |
 |---|---|
-| **Stack** | Python, Solidity, Django, SQL, Web3.py |
-| **Scale** | Multi-module system with an immutable claim-record ledger |
-| **Performance** | Real-time hash comparison for instant verification |
-| **Security** | Blockchain-backed immutable claim verification layer |
-| **Impact** | Reduces fraudulent claim approval risk via verifiable data trails |
-| **Repository** | [View Repo](https://github.com/sujaysuresh-tech/Insurance-Fraud-Detection-) |
+| 🧩 **Stack** | Vanilla JavaScript (ES Modules), HTML, CSS, Gemini 2.5 Flash API |
+| 📐 **Scale** | Modular architecture separating UI, API handling, and state logic |
+| ⚡ **Performance** | Lightweight, framework-free frontend for fast load times |
+| 🎨 **Design** | Dark mode glassmorphism / flat UI aesthetic |
+| 💡 **Impact** | Demonstrates end-to-end LLM integration without relying on a frontend framework |
+| 🔗 **Live Demo** | [ai-chatbot-lumen.vercel.app](https://ai-chatbot-lumen.vercel.app/) |
+| 📦 **Repository** | [View Repo](https://github.com/sujaysuresh-tech) |
 
-This project addresses a core trust problem in insurance systems — ensuring claim data cannot be silently altered after submission. By pairing a blockchain ledger with cryptographic hash verification, the system flags tampered records while maintaining a fully auditable trail, bridging financial security engineering with applied blockchain development.
+Lumen was built to explore how far a clean, dependency-light frontend can go when integrating a modern LLM API directly in the browser. The modular ES module structure keeps API communication, UI rendering, and conversation state cleanly separated, making the codebase easy to extend with new features like streaming responses or persistent chat history. 🔥
 
 </details>
 
 <details>
-<summary><strong>🔷 Lumen — AI Chatbot</strong></summary>
+<summary><strong>🔷 Blockchain-Based Insurance Verification System</strong></summary>
 
 <br/>
 
-A frontend AI chatbot built with vanilla JavaScript and a modular ES module architecture, powered by the Gemini 2.5 Flash API. Designed with a dark-mode glassmorphism aesthetic and built for deployment as a standalone portfolio piece.
+A trust-focused platform that pairs a blockchain ledger with claim-record hashing to prevent tampering of insurance certificate data — ensuring every issued record stays verifiable end-to-end. 🔒
 
 | Attribute | Details |
 |---|---|
-| **Stack** | Vanilla JavaScript (ES Modules), HTML, CSS, Gemini 2.5 Flash API |
-| **Scale** | Modular architecture separating UI, API handling, and state logic |
-| **Performance** | Lightweight, framework-free frontend for fast load times |
-| **Design** | Dark mode glassmorphism / flat UI aesthetic |
-| **Impact** | Demonstrates end-to-end LLM integration without relying on a frontend framework |
-| **Repository** | [View Repo](https://github.com/sujaysuresh-tech) |
+| 🧩 **Stack** | Python, Solidity, Django, SQL, Web3.py |
+| 📐 **Scale** | Multi-module system with an immutable claim-record ledger |
+| ⚡ **Performance** | Real-time hash comparison for instant verification |
+| 🔒 **Security** | Blockchain-backed immutable claim verification layer |
+| 💡 **Impact** | Reduces fraudulent claim approval risk via verifiable data trails |
+| 📦 **Repository** | [View Repo](https://github.com/sujaysuresh-tech/Insurance-Fraud-Detection-) |
 
-Lumen was built to explore how far a clean, dependency-light frontend can go when integrating a modern LLM API directly in the browser. The modular ES module structure keeps API communication, UI rendering, and conversation state cleanly separated, making the codebase easy to extend with new features like streaming responses or persistent chat history.
+This project addresses a core trust problem in insurance systems — ensuring claim data cannot be silently altered after submission. By pairing a blockchain ledger with cryptographic hash verification, the system flags tampered records while maintaining a fully auditable trail, bridging financial security engineering with applied blockchain development. 🛡️
 
 </details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Experience
+## 💼 Experience
 
-**Power BI Data Analyst**
+**📊 Power BI Data Analyst**
 **VEI Technologies**
 `Internship`
 
-- Built interactive dashboards and reports for business decision-making
-- Performed data cleaning, transformation, and visualization
-- Delivered insights through structured analytical reporting
+- 📈 Built interactive dashboards and reports for business decision-making
+- 🧹 Performed data cleaning, transformation, and visualization
+- 💡 Delivered insights through structured analytical reporting
 
 `Power BI` `SQL` `Data Visualization` `Excel`
 
 <br/>
 
-**Unity 3D Developer**
+**🎮 Unity 3D Developer**
 **ARK Infosolution**
 `Professional Training`
 
-- Developed interactive 3D application components using Unity
-- Collaborated on game-engine based feature implementation
+- 🕹️ Developed interactive 3D application components using Unity
+- 🤝 Collaborated on game-engine based feature implementation
 
 `Unity 3D` `C#` `Game Development`
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| Multi-Domain Internship Experience | AI, Data Analytics, and Game Development |
-| Flagship Project Recognition | Blockchain-based Insurance Fraud Detection System |
+| 🌐 Multi-Domain Internship Experience | AI, Data Analytics, and Game Development |
+| 🚀 Flagship Project Recognition | Blockchain-based Insurance Fraud Detection System |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -193,7 +196,7 @@ Lumen was built to explore how far a clean, dependency-light frontend can go whe
 
 </div>
 
-## GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -201,7 +204,7 @@ Lumen was built to explore how far a clean, dependency-light frontend can go whe
 
 </div>
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -209,74 +212,34 @@ Lumen was built to explore how far a clean, dependency-light frontend can go whe
 
 </div>
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sujaysuresh-tech/sujaysuresh-tech/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> Powered by [`platane/snk`](https://github.com/Platane/snk) — add the workflow below to your profile repo to auto-generate this animated snake daily from your live contribution graph.
-
-<details>
-<summary>⚙️ Snake animation workflow (click to expand)</summary>
-
-```yaml
-name: generate snake animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches: [ main ]
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sujaysuresh-tech
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Current Focus
+## 🎯 Current Focus
 
 ```yaml
 focus:
-  learning:
+  learning: 📚
     - Advanced system design
     - Cloud-native ML deployment
     - Distributed systems fundamentals
 
-  building:
+  building: 🔨
     - Production-grade full stack applications
     - AI-driven developer tools
 
-  exploring:
+  exploring: 🔭
     - Applied blockchain security patterns
     - Data analysis
 
-  open_to:
+  open_to: 🤝
     - Software Engineering roles
     - AI/ML Engineering roles
     - Full Stack opportunities
     - Data Analyst roles
 ```
 
-## Connect
+## 📬 Connect
 
 <div align="center">
 
@@ -291,7 +254,7 @@ focus:
 
 <div align="center">
 
-*"Good engineering is invisible — it just works, scales, and lasts."*
+*"Good engineering is invisible — it just works, scales, and lasts."* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
