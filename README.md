@@ -104,7 +104,7 @@ I care about writing maintainable code, designing systems that scale, and shippi
 
 A frontend AI chatbot built with vanilla JavaScript and a modular ES module architecture, powered by the **Gemini 2.5 Flash API**. Designed with a dark-mode glassmorphism aesthetic and deployed live for anyone to try. 💬
 
-[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-Try_It_Now-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-chatbot-lumen.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-chatbot-lumen.vercel.app/)
 
 | Attribute | Details |
 |---|---|
