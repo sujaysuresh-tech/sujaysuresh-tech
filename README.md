@@ -2,20 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Sujay%20Suresh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Sujay;%F0%9F%9A%80+Building+Intelligent+Systems+at+Scale;%F0%9F%A4%96+AI%2FML+Engineer+%7C+Full+Stack+Dev;%F0%9F%92%A1+Turning+Data+Into+Decisions;%E2%9A%A1+Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Sujay+Suresh;%F0%9F%9A%80+Building+Intelligent+Systems+at+Scale;%F0%9F%A4%96+AI%2FML+Engineer+%7C+Full+Stack+Dev;%F0%9F%92%A1+Turning+Data+Into+Decisions;%E2%9A%A1+Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
 
+</div>
+
+<div align="center">
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujaysuresh-tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay--suresh)
-[![Gmail](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujaysuresh365@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://sujaysuresh-tech.github.io)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sujaysuresh-tech&color=6D28D9&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/sujaysuresh-tech?color=7C3AED&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/sujaysuresh-tech?color=8B5CF6&style=flat-square&label=Stars)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:sujaysuresh365@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/sujaysuresh-tech)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/sujay--suresh)
+[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://sujaysuresh-tech.github.io)
 
 <br/>
 
@@ -116,7 +113,7 @@ A frontend AI chatbot built with vanilla JavaScript and a modular ES module arch
 | ⚡ **Performance** | Lightweight, framework-free frontend for fast load times |
 | 🎨 **Design** | Dark mode glassmorphism / flat UI aesthetic |
 | 💡 **Impact** | Demonstrates end-to-end LLM integration without relying on a frontend framework |
-| 🔗 **Live Demo** | [ai-chatbot-lumen.vercel.app](https://ai-chatbot-lumen.vercel.app/) |
+| 🔗 **Live Demo** | [Live Demo](https://ai-chatbot-lumen.vercel.app/) |
 | 📦 **Repository** | [View Repo](https://github.com/sujaysuresh-tech) |
 
 Lumen was built to explore how far a clean, dependency-light frontend can go when integrating a modern LLM API directly in the browser. The modular ES module structure keeps API communication, UI rendering, and conversation state cleanly separated, making the codebase easy to extend with new features like streaming responses or persistent chat history. 🔥
@@ -187,22 +184,10 @@ This project addresses a core trust problem in insurance systems — ensuring cl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujaysuresh-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaysuresh-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="48%"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaysuresh-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
-
 </div>
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujaysuresh-tech&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
 
 ## 📈 Contribution Activity
 
