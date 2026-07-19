@@ -199,6 +199,7 @@
 
   <g><animateTransform attributeName="transform" type="translate" values="0 0; 0 -5; 0 0" dur="6s" begin="3.64s" repeatCount="indefinite"/>
   <g clip-path="url(#leftPanelClip-d)">
+    <rect x="46" y="88" width="388" height="400" rx="10" fill="#FFFFFF"/>
     <text x="52" y="100.0" font-size="2.6" fill="url(#asciiGrad-d)" opacity="0" xml:space="preserve">                                                                                                                  `!  . '' /~<animate attributeName="opacity" values="0;1" dur="0.14s" begin="0.0s" fill="freeze"/></text>
     <text x="52" y="103.3" font-size="2.6" fill="url(#asciiGrad-d)" opacity="0" xml:space="preserve">                                                                                                             ~)1kUM$b",xt(#{[J-<animate attributeName="opacity" values="0;1" dur="0.14s" begin="0.027s" fill="freeze"/></text>
     <text x="52" y="106.7" font-size="2.6" fill="url(#asciiGrad-d)" opacity="0" xml:space="preserve">                                                                                                        :"&gt;?{kC}*:;(qw?xn_iiLIJ\:*Yj[?\Lr,'+fn}uni)||l1v^"&lt;*<animate attributeName="opacity" values="0;1" dur="0.14s" begin="0.053s" fill="freeze"/></text>
