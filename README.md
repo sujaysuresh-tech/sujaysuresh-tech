@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:sujaysuresh365@gmail.com)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/sujaysuresh-tech)
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/sujay--suresh)
 [![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://sujay-suresh-portfolio.vercel.app/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:sujaysuresh365@gmail.com)
 
 <br/>
 
@@ -214,10 +214,10 @@ focus:
 
 <div align="center">
 
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:sujaysuresh365@gmail.com)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/sujaysuresh-tech)
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/sujay--suresh)
 [![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://sujay-suresh-portfolio.vercel.app/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:sujaysuresh365@gmail.com)
 
 </div>
 
