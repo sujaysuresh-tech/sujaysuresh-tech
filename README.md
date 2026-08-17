@@ -140,6 +140,7 @@ A motion-driven personal portfolio site — an animated, scroll-aware single-pag
 | 🎨 **Design** | Magnetic, glassmorphic UI with an ambient animated background |
 | 💡 **Impact** | Doubles as a live showcase of frontend engineering craft, not just a static resume page |
 | 🔗 **Live Demo** | [Live Demo](https://sujay-suresh-portfolio.vercel.app/) |
+| 📦 **Repository** | [View Repo](https://github.com/sujaysuresh-tech/Portfolio) |
 
 Built as a fast, dark-mode, full-stack-flavored React app, the portfolio features a magnetic nav, resume preview modal, and case-study style project cards — all animated with Framer Motion to feel crafted rather than templated. ✨
 
