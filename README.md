@@ -84,6 +84,27 @@ I care about writing maintainable code, designing systems that scale, and shippi
 ## 🚀 Featured Projects
 
 <details open>
+<summary><strong>📚 DocuChat — RAG Chatbot for PDFs</strong></summary>
+
+<br/>
+
+A full-stack Retrieval-Augmented Generation chatbot that lets users upload one or more PDFs and have a grounded, source-cited conversation about their contents — powered by a real production-style RAG pipeline. 📄
+
+| Attribute | Details |
+|---|---|
+| 🧩 **Stack** | React, FastAPI, LangChain, ChromaDB, Gemini API, HuggingFace Embeddings |
+| 📐 **Scale** | Multi-PDF ingestion with per-session vector collections and chat history |
+| ⚡ **Performance** | MMR-based retrieval over chunked, embedded document text |
+| 🔐 **Security** | Full multi-user session isolation with automatic cleanup of inactive sessions |
+| 💡 **Impact** | Grounds LLM answers in retrieved document context instead of raw model memory, with page-level source citations |
+| 🔗 **Live Demo** | [Live Demo](https://rag-chatbot-docuchat.vercel.app/) |
+| 📦 **Repository** | [View Repo](https://github.com/sujaysuresh-tech/RAG-Chatbot-DocuChat) |
+
+DocuChat was built to explore a production-style RAG pipeline end-to-end — chunking and embedding documents, retrieving relevant passages via MMR search, and grounding Gemini's responses in that context. Conversational memory lets follow-up questions be understood in context, and every answer links back to the exact filename and page it came from. 🔍
+
+</details>
+
+<details>
 <summary><strong>✨ Lumen — AI Chatbot</strong></summary>
 
 <br/>
@@ -101,6 +122,26 @@ A frontend AI chatbot built with vanilla JavaScript and a modular ES module arch
 | 📦 **Repository** | [View Repo](https://github.com/sujaysuresh-tech/Ai-Chatbot-Lumen-) |
 
 Lumen was built to explore how far a clean, dependency-light frontend can go when integrating a modern LLM API directly in the browser. The modular ES module structure keeps API communication, UI rendering, and conversation state cleanly separated, making the codebase easy to extend with new features like streaming responses or persistent chat history. 🔥
+
+</details>
+
+<details>
+<summary><strong>🎨 Personal Portfolio — Sujay's Intelligent Canvas</strong></summary>
+
+<br/>
+
+A motion-driven personal portfolio site — an animated, scroll-aware single-page experience introducing my background, education, skills, and project work through a glassmorphic, dark-mode UI. 🖼️
+
+| Attribute | Details |
+|---|---|
+| 🧩 **Stack** | React 19, TanStack Start, TanStack Router, Tailwind CSS v4, Framer Motion |
+| 📐 **Scale** | Scroll-driven section reveals with `IntersectionObserver`-based active-nav tracking |
+| ⚡ **Performance** | Vite-powered build with Nitro SSR |
+| 🎨 **Design** | Magnetic, glassmorphic UI with an ambient animated background |
+| 💡 **Impact** | Doubles as a live showcase of frontend engineering craft, not just a static resume page |
+| 🔗 **Live Demo** | [Live Demo](https://sujay-suresh-portfolio.vercel.app/) |
+
+Built as a fast, dark-mode, full-stack-flavored React app, the portfolio features a magnetic nav, resume preview modal, and case-study style project cards — all animated with Framer Motion to feel crafted rather than templated. ✨
 
 </details>
 
